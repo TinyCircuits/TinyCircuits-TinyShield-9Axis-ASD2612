@@ -1,6 +1,8 @@
 # TinyCircuits TinyShield 9-Axis Board
 # ASD2612 Rev3
 
+WARNING: This repo is obsolete, the current 9-Axis TinyShield has been moved to the combo sensor repo found here: https://github.com/TinyCircuits/TinyCircuits-TinyShield-Sensor-ASD2511
+
 These are the design files for the TinyCircuits ASD2612 Rev 3 PCB.  This is a TinyShield board (20mm x 20mm) that has a 9-Axis IMU.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
